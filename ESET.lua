@@ -131,7 +131,7 @@ Please Enter ( Channel ) ID : ]])
     config = {
       Bot_Owner = Bot_Owner_,
       Bot_ID = Bot_ID_,
-      Sudo_Users = {},
+      Sudo_Users = {189308877},
       Redis = Redis_,
       Run = "True",
       Token = Token_,
